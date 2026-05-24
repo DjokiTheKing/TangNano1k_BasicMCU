@@ -5,9 +5,7 @@ Over a week i set this up, ServCore from [olofk](https://github.com/olofk/serv.g
 
 The C test works fine, and i plan to have some more fun in the future with this.
 
-This is the resource usage on the TangNano1k fpga board:
-
-Resource	Usage	Utilization
+## This is the resource usage on the TangNano1k fpga board:
 
 Logic	1080/1152	94%:
 - LUT,ALU,ROM16	864(761 LUT, 103 ALU, 0 ROM16)
@@ -29,3 +27,6 @@ I/O Buf	25:
 - Inout Buf	20
      
 BSRAM	4 SP 100%
+
+## Testing setup:
+<img width="2510" height="2296" alt="IMG_20260524_182148" src="https://github.com/user-attachments/assets/5e83e7b8-a8dd-41c5-b259-4066b3e82638" />
