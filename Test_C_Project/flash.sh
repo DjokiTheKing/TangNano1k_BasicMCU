@@ -1,0 +1,1 @@
+flashrom.exe -p serprog:dev=COM19:115200 -l ./config/layout.txt -irodata:./build/firmware.bin -w
