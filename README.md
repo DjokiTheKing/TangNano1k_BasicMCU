@@ -3,7 +3,7 @@
 This is my first verilog project, as such, i wanted to have fun.\
 Over a week i set this up, ServCore from [olofk](https://github.com/olofk/serv.git), basic bus mux, bus arbiter, gpio, timer, spi flash, sram(using gowins bsram interface), uart(tx only).
 
-The C test works fine, and i plan to have some more fun in the future with this.
+The C test works fine, i use [mpaland/printf](https://github.com/mpaland/printf) for output to uart tx, and i plan to have some more fun in the future with this.
 
 ## This is the resource usage on the TangNano1k fpga board:
 
