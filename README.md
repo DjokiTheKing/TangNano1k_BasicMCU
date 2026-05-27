@@ -1,4 +1,4 @@
-# TangNano1k_BasicMCU
+# Tang Nano 1k BasicMCU
 
 This is my first verilog project, as such, i wanted to have fun.\
 Over a week i set this up, ServCore from [olofk](https://github.com/olofk/serv.git), basic bus mux, bus arbiter, gpio, timer, spi flash, sram(using gowins bsram interface), uart(tx only).
